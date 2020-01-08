@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2020-01-01
-image: "/template_site/images/csr_thumbnail.png"
+image: "/jekyll_simple/images/csr_thumbnail.png"
 title:  "Template Post: Title of Your Final Project"
 author: "Names Of Everyone In Your Group"
 ---
